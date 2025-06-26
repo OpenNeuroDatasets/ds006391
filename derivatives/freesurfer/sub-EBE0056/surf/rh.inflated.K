@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/VM/3g/SHA256E-s690667--b10722749a0c5200a2ecf52ef16caaa2e5ac2112c8c0b37c1e3d9a7b4147817b.inflated.K/SHA256E-s690667--b10722749a0c5200a2ecf52ef16caaa2e5ac2112c8c0b37c1e3d9a7b4147817b.inflated.K

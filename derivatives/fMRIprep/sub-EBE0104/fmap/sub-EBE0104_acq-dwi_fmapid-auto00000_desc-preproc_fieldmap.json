@@ -1,0 +1,16 @@
+{
+  "AnatomicalReference": "sub-EBE0104_acq-dwi_fmapid-auto00000_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-EBE0104_acq-dwi_fmapid-auto00000_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "dwi/sub-EBE0104_acq-136vols_dwi1.nii.gz",
+    "dwi/sub-EBE0104_acq-136vols_dwi2.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch/xc2780/CBI/BilingStructure_norm/sub-EBE0104/fmap/sub-EBE0104_acq-dwi_dir-AP_epi.nii.gz",
+    "/scratch/xc2780/CBI/BilingStructure_norm/sub-EBE0104/fmap/sub-EBE0104_acq-dwi_dir-PA_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}
