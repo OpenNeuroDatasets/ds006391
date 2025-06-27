@@ -14,7 +14,7 @@ For more information on the subdirectories, see BIDS information at https://bids
 # derivatives
 This directory contains outputs of common processing pipelines run on the raw MRI data from "data/sub-EBE****".
 
-## data/derivatives/CAT12
+## derivatives/CAT12
 These are the results of the CAT12 toolbox, which stands for Computational Anatomy Toolbox, and is used to calculate brain region volumes using voxel-based morphometry (VBM). A few things are required to download for this process.
 
 1. MATLAB v. R2023a (https://www.mathworks.com/products/new_products/release2023a.html)
