@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-EBE0087_acq-fMRI_fmapid-auto00001_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-EBE0087_acq-fMRI_fmapid-auto00001_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00001",
+  "IntendedFor": [
+    "func/sub-EBE0087_task-rest_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch/xc2780/CBI/BilingStructure_norm/sub-EBE0087/fmap/sub-EBE0087_acq-fMRI_dir-AP_epi.nii.gz",
+    "/scratch/xc2780/CBI/BilingStructure_norm/sub-EBE0087/fmap/sub-EBE0087_acq-fMRI_dir-PA_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}
