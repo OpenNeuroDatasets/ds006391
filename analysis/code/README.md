@@ -45,6 +45,12 @@ Generating the results from figure 3A, which is the replication of Deluca et al.
 
 ## mri_preprocessing/
 
+### mri_preprocessing/brain_data_preprocessing.ipynb
+Generating csv files from the toolbox outputs for further statistical analyses. The resulting csv files have rows for each subject and columns for each brain measure. The generated csv files are saved in ../processed_mri_data.
+
+### mri_preprocessing/fdt_tbss/
+Customized scripts and commands for running fdt preprocessing and tbss for DTI analyses.
+
 
 <br>
 
