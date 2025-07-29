@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/qx/Qg/SHA256E-s800831--f6a4436d6c785a597115e8c0ef3501c5d9db973dd55a13ac949148d8ac90ca2b.white.K/SHA256E-s800831--f6a4436d6c785a597115e8c0ef3501c5d9db973dd55a13ac949148d8ac90ca2b.white.K
